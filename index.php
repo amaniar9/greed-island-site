@@ -93,7 +93,7 @@
   echo '<table class="customTable">
   <thead>
     <tr>
-      <th><a  href="http://localhost/greed-island-site/">Refresh for Random Card</a></th>
+      <th><a  href="https://greed-island-site.herokuapp.com//">Refresh for Random Card</a></th>
       <th></th>
     </tr>
   </thead>
