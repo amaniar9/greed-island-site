@@ -5,9 +5,9 @@
 <head>
   <meta charset="utf-8">
 
-  <title>L . N . D</title>
+  <title>Greed Island Cards</title>
   <meta name="description" content="LND">
-  <meta name="author" content="SitePoint">
+  <meta name="author" content="Aakash">
 
   <link rel="stylesheet" href="styles.css?v=1.0">
 
